@@ -1,0 +1,18 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+.cache/
+.history/
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+.idea
+.bsp
+# Mac
+.DS_Store
