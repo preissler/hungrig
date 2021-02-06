@@ -1,6 +1,5 @@
 package com.hungrig.api
 
-import akka.http.scaladsl.server.Directives.pathPrefix
 import com.typesafe.scalalogging.StrictLogging
 import akka.http.scaladsl.model.StatusCodes
 import akka.http.scaladsl.server.Directives.{pathPrefix, _}
